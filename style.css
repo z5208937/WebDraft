@@ -27,19 +27,19 @@ body
 
 .main-nav li.active a
 {
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     
 }
 
 .main-nav li a:hover
 {
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
 }
 
 
 .main-nav li a
 {
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto", sans-serif;
@@ -58,7 +58,7 @@ body
 
 h1
 {
-    color: white;
+    color: #FFFFFF;
     text-transform: uppercase;
     font-size: 70px;
     text-align: center;
@@ -80,9 +80,9 @@ header
 
 .btn
 {
-    border: 1px solid white;
+    border: 1px solid #FFFFFF;
     padding: 10px 30px;
-    color: white;
+    color: #FFFFFF;
     text-decoration: none;
     margin-right: 5px;
     font-size: 13px;
@@ -90,7 +90,7 @@ header
 }
 .btn-one
 {
-    background-color: darkorange;
+    background-color: #00FFFF;
     font-family: "Roboto", sans-serif;
 }
 
@@ -102,7 +102,7 @@ header
 
 .btn-two:hover
 {
-    background-color: darkorange;
+    background-color: #00FFFF;
     transition: all 0.5s ease-in;
     
         
