@@ -91,7 +91,6 @@ header
 }
 .btn-one
 {
-    background-color: #00FFFF;
     font-family: "Roboto", sans-serif;
 }
 
@@ -100,7 +99,11 @@ header
     font-family: "Roboto", sans-serif;
 }
 
-
+.btn-one:hover
+{
+    background-color: #00FFF;
+    font-family: "Roboto", sans-serif;
+}
 .btn-two:hover
 {
     background-color: #00FFFF;
