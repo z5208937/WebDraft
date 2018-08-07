@@ -38,3 +38,16 @@ header
 {
   border: 1px solid #FFFFFF;
 }
+
+.main-nav li a:hover
+{
+  border: 1px solid	#FFFFFF;
+}
+
+.logo img
+{
+  width: 150px;
+  height: auto;
+  float: left;
+}
+
