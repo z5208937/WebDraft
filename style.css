@@ -56,7 +56,7 @@ body
 }
 
 
-h1
+.h1
 {
     color: #FFFFFF;
     text-transform: uppercase;
@@ -112,4 +112,6 @@ header
 {
     width: 150px;
     height: auto;
+    float: left;
+    
 }
